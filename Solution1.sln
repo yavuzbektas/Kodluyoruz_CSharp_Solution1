@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reacap1 Project", "Reacap1 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{19817401-9FF4-489C-B493-3DAD66845E1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{3B6CA54D-0E78-4DFA-9E55-B9205D7C222A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{19817401-9FF4-489C-B493-3DAD66845E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19817401-9FF4-489C-B493-3DAD66845E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19817401-9FF4-489C-B493-3DAD66845E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6CA54D-0E78-4DFA-9E55-B9205D7C222A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6CA54D-0E78-4DFA-9E55-B9205D7C222A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6CA54D-0E78-4DFA-9E55-B9205D7C222A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6CA54D-0E78-4DFA-9E55-B9205D7C222A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
