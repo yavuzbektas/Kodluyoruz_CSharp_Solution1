@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If and Else", "If and Else\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{5B40E3E9-DB96-41D8-9AC0-8858449C357E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{F6D8050C-42EC-4490-85C0-A0E942490288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{EE6E082D-EDE5-4D58-B87C-681902B8063F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5B40E3E9-DB96-41D8-9AC0-8858449C357E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B40E3E9-DB96-41D8-9AC0-8858449C357E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B40E3E9-DB96-41D8-9AC0-8858449C357E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D8050C-42EC-4490-85C0-A0E942490288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D8050C-42EC-4490-85C0-A0E942490288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D8050C-42EC-4490-85C0-A0E942490288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D8050C-42EC-4490-85C0-A0E942490288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6E082D-EDE5-4D58-B87C-681902B8063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6E082D-EDE5-4D58-B87C-681902B8063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6E082D-EDE5-4D58-B87C-681902B8063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6E082D-EDE5-4D58-B87C-681902B8063F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
