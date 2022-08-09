@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConvert", "TypeConvert\TypeConvert.csproj", "{385C0CBB-E5A9-42B3-B9FE-D672CA4379CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_Catch", "Try_Catch\Try_Catch.csproj", "{CB1FC876-E726-4C55-9225-FC825D046BCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{385C0CBB-E5A9-42B3-B9FE-D672CA4379CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{385C0CBB-E5A9-42B3-B9FE-D672CA4379CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{385C0CBB-E5A9-42B3-B9FE-D672CA4379CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1FC876-E726-4C55-9225-FC825D046BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1FC876-E726-4C55-9225-FC825D046BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1FC876-E726-4C55-9225-FC825D046BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1FC876-E726-4C55-9225-FC825D046BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
